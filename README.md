@@ -20,14 +20,14 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente de `Visual Studio Code`
 - Você tem uma máquina `Windows / Linux / Mac` com as últimas versões atualizadas.
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para Landing Page - Nubank
 
-Para contribuir com Lading Page - Nubank, siga estas etapas:
+Para contribuir, siga estas etapas:
 
 1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <lading-page-nubank>`.
+2. Crie um branch: `git checkout -b <landing-page-nubank>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <lading-page-nubank> / <local>`
+4. Envie para o branch original: `git push origin <landing-page-nubank> / <local>`
 5. Crie a solicitação de pull.
 
 ## 🤝 Colaboradores
