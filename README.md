@@ -1,4 +1,4 @@
-# Lading Page - Nubank
+# Landing Page - Nubank
 
 <img width="1898" height="869" alt="Fundo Projeto" src="https://github.com/user-attachments/assets/43f03b23-7a55-4e9d-a9e5-593a8cc3bd57" />
 
